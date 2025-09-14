@@ -1,7 +1,5 @@
 from ddgs import DDGS
-import math
 import os
-import locale
 import argparse
 import wikipedia
 
