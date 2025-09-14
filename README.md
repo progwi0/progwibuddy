@@ -22,4 +22,4 @@ progwibuddy.py "Sigma"
 
 ## How to download it?
 
-Download it in releases.
+You can download it in releases.
